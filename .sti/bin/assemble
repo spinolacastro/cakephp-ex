@@ -13,3 +13,5 @@ fi
 if [ -f ${HOME}/app/Console/cake ]; then
 	ln -s ${HOME}/app/Console/cake ${HOME}/bin/cake
 fi
+
+env
